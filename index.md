@@ -18,3 +18,7 @@ var myVar = "Hello, world!";
 
 ###### 6th heading
 ###### Another 6th level heading
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
